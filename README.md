@@ -1,4 +1,4 @@
-## Snake Game
+## SNAKE GAME
 - **Autoria:**
   - Leonardo Severino;
   - leoseverino0901@gmail.com;
