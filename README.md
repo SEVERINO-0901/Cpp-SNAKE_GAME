@@ -14,5 +14,5 @@
     - Tecla 'x': Encerra o jogo;
     
 - **Demonstração:**
-  - ![Texto Alternativo](https://github.com/SEVERINO-0901/C-Cpp/blob/main/SnakeGame/Screenshots/Captura%20de%20tela%20de%202024-09-09%2018-56-56.png)
-  - ![Texto Alternativo](https://github.com/SEVERINO-0901/C-Cpp/blob/main/SnakeGame/Screenshots/Captura%20de%20tela%20de%202024-09-09%2018-57-17.png)
+  - ![Texto Alternativo](https://github.com/SEVERINO-0901/SNAKE_GAME-Cpp/blob/main/Screenshots/Captura%20de%20tela%20de%202024-09-09%2018-56-56.png)
+  - ![Texto Alternativo](https://github.com/SEVERINO-0901/SNAKE_GAME-Cpp/blob/main/Screenshots/Captura%20de%20tela%20de%202024-09-09%2018-57-17.png)
