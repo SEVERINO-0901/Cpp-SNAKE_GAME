@@ -1,5 +1,5 @@
 /*
-NOME DO PROJETO: SnakeGame                                                           
+NOME DO PROJETO: SnakeGame - main                                                           
 AUTOR DO PROJETO: Leonardo Severino  
 DATA DE CRIAÇÃO: 29/08/2024 - 10:18:14
 DESCRIÇÃO:
