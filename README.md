@@ -1,5 +1,5 @@
 ## DADOS DO PROJETO
-- **Nome:** C++ - SnakeGame; 
+- **Nome:** SnakeGame; 
 - **Autor:** Leonardo Severino - leoseverino0901@gmail.com;
 - **Data de Criação:** 29/08/2024 - 10:18:14;
  
