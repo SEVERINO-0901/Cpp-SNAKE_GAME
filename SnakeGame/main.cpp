@@ -1,7 +1,7 @@
 /*
 NOME DO PROJETO: SnakeGame - main                                                           
-AUTOR DO PROJETO: Leonardo Severino  
-DATA DE CRIAÇÃO: 29/08/2024 - 10:18:14
+AUTOR: Leonardo Severino - leoseverino0901@gmail.com  
+DATA: 29/08/2024 - 10:18:14
 DESCRIÇÃO:
     Implementação de um simples jogo da cobrinha desenvolvido em linguagem C/C++ utilizando a biblioteca ncurses. 
 O jogo segue o estilo clássico onde o jogador controla uma cobra que se move pela tela para comer frutas e aumentar 
