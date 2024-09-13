@@ -14,6 +14,5 @@
   - Tecla 'x': Encerra o jogo;
     
 ## DEMONSTRAÇÃO
-- https://github.com/user-attachments/assets/0912dd20-b2ed-49a7-a44c-d20d9fbccded
+ ![Captura de tela de 2024-09-09 18-56-56](https://github.com/user-attachments/assets/ea57eb75-2a11-44dc-b964-168db7479fe2)
 
-- ![Figura 2](https://github.com/SEVERINO-0901/SNAKE_GAME-Cpp/blob/main/Screenshots/Captura%20de%20tela%20de%202024-09-09%2018-57-17.png)
